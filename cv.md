@@ -64,13 +64,13 @@
 
 
 ### All Around the World
-    http://allaroundtheworld.fr
-    From August 2016 to September 2018
-    Position: Senior Software Developer / Architect (telecommute)
-    Used technologies:
+* http://allaroundtheworld.fr
+* From August 2016 to September 2018
+* Position: Senior Software Developer / Architect (telecommute)
+* Used technologies:
     - Perl: Moose, DBIx::Class, Catalyst, Test::Class::Moose, Net::SNMP, etc
     - PostgreSQL, Oracle, Redis, MongoDB
-    Completed tasks / work areas:
+* Completed tasks / work areas:
       * Work for the client - one of the biggest European ISPs:
         - Developed internal RESTful API, well tested and documented
         - Migrated the team from old version of Gitbucket to new version of Gitlab
@@ -92,15 +92,15 @@
           programming guidelines.
 
 ## UK2 Group Limited
-    http://www.uk2group.com
-    From November 2011 to August 2016
-    Position: Perl Developer (telecommute)
+* http://www.uk2group.com
+* From November 2011 to August 2016
+* Position: Perl Developer (telecommute)
 
-    Used technologies:
+* Used technologies:
     - Perl, MySQL, REST API, Redis
     - Dancer, Moose, DBIx::Class, Test::Class, AnyEvent
 
-    Completed tasks:
+* Completed tasks:
     - REST API for ordering e-mail addresses, registering domains, provisioning
       of cPanel accounts, Comodo SSL certificates, VPSes and a lot of similar
       stuff. This also included communicating with the relevant providers' APIs,
@@ -121,11 +121,11 @@
       completion of some unrelated processing.
 
 ### Domain Name Registrar Reg.RU, LLC
-    http://www.reg.ru/en/
-    From July 2009 to November 2011
-    Position: Perl Developer (telecommute)
+* http://www.reg.ru/en/
+* From July 2009 to November 2011
+* Position: Perl Developer (telecommute)
 
-    Used technologies:
+* Used technologies:
     - Perl (OO and procedural interface)
     - Catalyst, Template Toolkit, Exception::Class, Moose, Plack
     - Net::Whois::Raw from CPAN, has some my additions
@@ -136,7 +136,7 @@
     - Scrum, Agile retrospectives
 
 
-    Completed tasks:
+* Completed tasks:
     - connection of payment systems (QIWI, Yandex.Money, Money@Mail.Ru,
       Roboxchange.com, credit card payments)
 
@@ -149,11 +149,11 @@
 
 
 ### S-Groop, LLC (2008 - 2009)
-    http://s-groop.ru/
-    Position: sysadmin
-    Used technologies: Win*, FreeBSD, squid, ipfw, Apache, MySAR
+* http://s-groop.ru/
+* Position: sysadmin
+* Used technologies: Win*, FreeBSD, squid, ipfw, Apache, MySAR
 
-    Performed Tasks:
+* Performed Tasks:
     - administration of Win2003-based domain infastructure
     - administration of FreeBSD router (Squid, BIND, Netams, MySAR, Sarg,
       ipfw)
@@ -163,26 +163,26 @@
     - backup of critical data
 
 ### Ryazanhleb, JSC (2007 - 2008)
-    http://www.rhleb.ru
-    Position: sysadmin
-    Used technologies: Win*, FreeBSD, RT, YaBB
+* http://www.rhleb.ru
+* Position: sysadmin
+* Used technologies: Win*, FreeBSD, RT, YaBB
 
-    Performed Tasks:
-    - ensurance of smooth operation of production servers in 24x7 mode
-    - user's workstations installation and maintenance
-    - buying and maintanance of hardware
-    - programming of corporate ERP-system (IS-PRO), reports and accounting
-      operations
-    - administration of corporate Win2003 domain based network 
-    - administration of FreeBSD router (squid, ipfw)
-    - installation and maintenance of internal corporate forum (YaBB) and
-      task-tracking system (RT)
+* Performed Tasks:
+- ensurance of smooth operation of production servers in 24x7 mode
+- user's workstations installation and maintenance
+- buying and maintanance of hardware
+- programming of corporate ERP-system (IS-PRO), reports and accounting
+  operations
+- administration of corporate Win2003 domain based network 
+- administration of FreeBSD router (squid, ipfw)
+- installation and maintenance of internal corporate forum (YaBB) and
+  task-tracking system (RT)
 
 ## Other Professional Experience
-    - http://www.freelancer.com/users/893500.html
-    - https://www.odesk.com/users/~019a599429a6bfc6da
-    - many freelance tasks concerning website (mostly e-commerce) developing, not
-      listed on freelancer.com
+- http://www.freelancer.com/users/893500.html
+- https://www.odesk.com/users/~019a599429a6bfc6da
+- many freelance tasks concerning website (mostly e-commerce) developing, not
+  listed on freelancer.com
 
 
 ## Education
