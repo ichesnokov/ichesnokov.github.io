@@ -71,12 +71,12 @@
     - Perl: Moose, DBIx::Class, Catalyst, Test::Class::Moose, Net::SNMP, etc
     - PostgreSQL, Oracle, Redis, MongoDB
 * Completed tasks / work areas:
-      + Work for the client - one of the biggest European ISPs:
+    + Work for the client - one of the biggest European ISPs:
         - Developed internal RESTful API, well tested and documented
         - Migrated the team from old version of Gitbucket to new version of Gitlab
           (self-hosted)
         - Fault-tolerance for the internal long-running Oracle data migration script
-      + Tau Station browser MMORPG (https://taustation.space - might be blocked
+    + Tau Station browser MMORPG (https://taustation.space - might be blocked
         in Russia because of Telegram)
         - Features for in-game forums, such as: abuse reporting system,
           moderation, displaying count of new posts, etc.
