@@ -48,14 +48,14 @@
     Used technologies:
       - Perl, SQLite, Bootstrap
 
-* Perceptyx, Inc
-    https://www.perceptyx.com
-    From October 2018 to September 2020
-    Position: Senior Software Engineer, Team Lead (remote)
-    Completed tasks / work areas:
-        * Participated in development of new company project helping it move to PAAS
+### Perceptyx, Inc
+    * https://www.perceptyx.com
+    * From October 2018 to September 2020
+    * Position: Senior Software Engineer, Team Lead (remote)
+    * Completed tasks / work areas:
+        - Participated in development of new company project helping it move to PAAS
           model
-        * Ongoing support and updates of translation toolkit, working together
+        - Ongoing support and updates of translation toolkit, working together
           with project and data management and 3rd party translation service.
           As a result of that several major and some smaller bugs were fixed,
           translation-related processes were clarified and the amount of
