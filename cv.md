@@ -49,20 +49,21 @@
       - Perl, SQLite, Bootstrap
 
 ### Perceptyx, Inc
-    * https://www.perceptyx.com
-    * From October 2018 to September 2020
-    * Position: Senior Software Engineer, Team Lead (remote)
-    * Completed tasks / work areas:
-        - Participated in development of new company project helping it move to PAAS
-          model
-        - Ongoing support and updates of translation toolkit, working together
-          with project and data management and 3rd party translation service.
-          As a result of that several major and some smaller bugs were fixed,
-          translation-related processes were clarified and the amount of
-          bugreports has lowered significantly.
+
+* https://www.perceptyx.com
+* From October 2018 to September 2020
+* Position: Senior Software Engineer, Team Lead (remote)
+* Completed tasks / work areas:
+    - Participated in development of new company project helping it move to PAAS
+      model
+    - Ongoing support and updates of translation toolkit, working together
+      with project and data management and 3rd party translation service.
+      As a result of that several major and some smaller bugs were fixed,
+      translation-related processes were clarified and the amount of
+      bugreports has lowered significantly.
 
 
-* All Around the World
+### All Around the World
     http://allaroundtheworld.fr
     From August 2016 to September 2018
     Position: Senior Software Developer / Architect (telecommute)
@@ -90,7 +91,7 @@
           better, e.g. convinced a team to formulate and write down database
           programming guidelines.
 
-* UK2 Group Limited
+## UK2 Group Limited
     http://www.uk2group.com
     From November 2011 to August 2016
     Position: Perl Developer (telecommute)
@@ -119,7 +120,7 @@
       perform some tasks asynchronously instead of making customers to wait for
       completion of some unrelated processing.
 
-* Domain Name Registrar Reg.RU, LLC
+### Domain Name Registrar Reg.RU, LLC
     http://www.reg.ru/en/
     From July 2009 to November 2011
     Position: Perl Developer (telecommute)
@@ -147,7 +148,7 @@
       collaborative work much more easy
 
 
-* S-Groop, LLC (2008 - 2009)
+### S-Groop, LLC (2008 - 2009)
     http://s-groop.ru/
     Position: sysadmin
     Used technologies: Win*, FreeBSD, squid, ipfw, Apache, MySAR
@@ -161,7 +162,7 @@
     - CCTV
     - backup of critical data
 
-* Ryazanhleb, JSC (2007 - 2008)
+### Ryazanhleb, JSC (2007 - 2008)
     http://www.rhleb.ru
     Position: sysadmin
     Used technologies: Win*, FreeBSD, RT, YaBB
