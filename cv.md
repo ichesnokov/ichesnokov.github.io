@@ -11,10 +11,9 @@
 
 * Languages:
     * Perl:
-        - OOP: Moose, Moo, Mo, M, Class::Accessor, etc.
+        - OOP: Moose, Moo, Mo, M, etc.
         - Web frameworks: Catalyst, Dancer, Mojolicious, CGI, CGI::Application,
           etc.
-        - Templating engines: Template Toolkit, Mojo::Template
         - AnyEvent(::*) and other event-based programming techniques (e.g.
           Mojo::IOLoop)
     * Lua:
@@ -23,20 +22,20 @@
         - Released middleclass-mixin-singleton to Luarocks (code is by the
           author of middleclass - tests and luarocks package are mine)
     * Other:
-      - C/C++, Javascript, XML, HTML, SQL (MySQL, Pg, SQLite)
+      - C/C++ (would love to learn more), Javascript, XML, HTML, SQL (MySQL, Pg, SQLite)
 
-* OS'es:
+* Operating systems:
     * Linux (all flavors, currently using Ubuntu/Debian)
     * FreeBSD (from time to time, rarely these days, started from version 4)
-    * Windows / Mac OS X
+    * Mac OS X / Windows
     * Android / iOS / Windows Phone
 
 * Other technologies:
-    * Git - preferred source code tracker, previously used SVN
+    * Git - preferred source code tracker
     * Vim - favorite editor
     * MySQL, PostgreSQL, some Oracle
-    * RabbitMQ, Redis
-    * Webservers: Nginx, Starman and other Perl-based, sometimes Apache
+    * RabbitMQ, Redis, Tarantool
+    * Webservers: Nginx, Apache, Starman and other Perl-based ones
 
 ## Professional Experience
 
