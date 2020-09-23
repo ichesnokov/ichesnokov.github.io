@@ -60,6 +60,11 @@
       As a result of that several major and some smaller bugs were fixed,
       translation-related processes were clarified and the amount of
       bugreports has lowered significantly.
+    - Played a significant role initiating the use of Test::Class::Moose for
+      testing and DBIx::Class as a database interaction layer in the company.
+    - Having passed Professional Scrum Master training, played the primary role
+      establishing Scrum processes in the product team of 4 developers
+      (including myself) and a Product Owner.
 
 
 ### All Around the World
