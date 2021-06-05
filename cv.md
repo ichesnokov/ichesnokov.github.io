@@ -47,6 +47,17 @@
     Used technologies:
       - Perl, SQLite, Bootstrap
 
+### Mail.Ru Group, LLC
+
+* https://mail.ru
+* From January 2021
+* Position: Senior Perl Developer
+* Work area / responsibilities:
+    - Support for Company Group-wide payment processing system
+    - Participation in implementation of the Continuous Integration (CI) system
+      based on Docker and Gitlab (mainly by setting and clarifying the
+      requirements for sysadmins and testing system they are implementing).
+
 ### Perceptyx, Inc
 
 * https://www.perceptyx.com
