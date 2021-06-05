@@ -1,6 +1,6 @@
 ## Name: Ilya Chesnokov
 
-## Position: Backend Developer (Perl, Lua, maybe something else)
+## Position: Senior Backend (Perl) Developer
 
 ## Contact Information
 
