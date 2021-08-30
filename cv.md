@@ -1,6 +1,6 @@
 ## Name: Ilya Chesnokov
 
-## Position: Senior Backend (Perl) Developer
+## Position: Senior Backend (Perl, Python, Golang, Lua) Developer
 
 ## Contact Information
 
